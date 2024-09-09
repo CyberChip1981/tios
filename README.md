@@ -1,5 +1,5 @@
 Idea for this project:
--makeit compatible formore boards
+-make it compatible formore boards
 
 That would be awesome!!!!
 
