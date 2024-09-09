@@ -3,7 +3,7 @@ Idea for this project:
 
 That would be awesome!!!!
 
-// Below is the readme of the creator link: https://github.com/VolosR/tios //
+// Below is the readme of the creator, link: https://github.com/VolosR/tios //
 
 I present to you. t-display INPUT output  system. Or TIOS, the name BIOS was taken.
 
